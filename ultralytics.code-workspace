@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ultralytics",
+			"path": "."
+		},
+		{
+			"path": "../../RT-DETR-Pano/RT-DETR"
+		}
+	],
+	"settings": {}
+}
